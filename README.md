@@ -60,7 +60,7 @@ clang -S -emit-llvm main.c -o main.ll
 ```
 **Содержимое `main.ll`:**
 
-![llvm](https://github.com/user-attachments/assets/edc1530b-46b1-4360-9d29-fd5d40edd4a0)
+![Тест](img/screen6.jpg)
 
 
 ### 5. Оптимизация IR
