@@ -16,8 +16,10 @@
 ```bash
 sudo apt install clang llvm graphviz
 ```
-![Установка_CLANG](https://github.com/user-attachments/assets/09f5fa7d-45b6-4d48-8a13-7450ee8c7941)
-![Установка_Graphviz](https://github.com/user-attachments/assets/a3fb693d-9dd8-476d-b79c-d96bfba59c93)
+![Тест](img/screen1.jpg)
+![Тест](img/screen2.jpg)
+![Тест](img/screen3.jpg)
+![Тест](img/screen4.jpg)
 
 ### 2. Исходный код
 ```
