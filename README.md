@@ -119,9 +119,11 @@ xdg-open cfg_square.png
 **Вывод:**
 CFG наглядно демонстрирует упрощение потока управления после оптимизаций.
 
-![opt](https://github.com/user-attachments/assets/295dc152-e66f-4779-965f-a17394a038f7)
+![Тест](img/screen9.jpg)
 
-![Преобразование](https://github.com/user-attachments/assets/ceb859b9-0fc0-4356-bf41-3139aa6100df)
+![Тест](img/screen10.jpg)
+
+![Тест](img/screen11.jpg)
 
 ## Выводы по работе
 - Clang предоставляет мощные инструменты для анализа кода через AST и IR.
