@@ -93,7 +93,6 @@ diff main_O0.ll main_O2.ll
 
 ![Тест](img/screen8.jpg)
 
-![Сравнение](https://github.com/user-attachments/assets/b40fed9f-bd03-460f-8664-2eeaa8cbac59)
 
 
 ### 6. Граф потока управления программы
