@@ -89,9 +89,9 @@ diff main_O0.ll main_O2.ll
 **Вывод:**
 Оптимизации значительно упростили код, устранив избыточные операции.
 
-![IR](https://github.com/user-attachments/assets/341a5297-052e-4b41-b1d1-e8a5189ae953)
+![Тест](img/screen7.jpg)
 
-![IR_O2](https://github.com/user-attachments/assets/22a3079c-fd9d-4f2b-a653-5ea5818e092c)
+![Тест](img/screen8.jpg)
 
 ![Сравнение](https://github.com/user-attachments/assets/b40fed9f-bd03-460f-8664-2eeaa8cbac59)
 
