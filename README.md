@@ -50,7 +50,7 @@ int main() {
 Вывод:
 AST точно отражает структуру программы, включая объявления функций и операций.
 
-![clang](https://github.com/user-attachments/assets/d42d86c5-5b77-4898-9062-b3f385dd89d7)
+![Тест](img/screen5.jpg)
 
 
 ### 4. Генерация LLVM IR
